@@ -3,13 +3,13 @@
 
 |名称                  |目录         |
 |:--------------------|-------------|
-| Linear Regression   | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/logistic-regression)|
-| KNN                 | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/KNN)|
-| Naive Bayes         | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/Naive-bayes)|
-| Decision Tree       | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/decision-tree)|
-| Logisitc Regression | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/logistic-regression)|
-| SVM                 | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/SVM)|
-| K Means             | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/K-Means)|
+| 线性回归 Linear Regression   | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/logistic-regression)|
+| KNN                          | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/KNN)|
+| 朴素贝叶斯 Naive Bayes       | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/Naive-bayes)|
+| 决策树 Decision Tree         | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/decision-tree)|
+| 逻辑回归 Logisitc Regression | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/logistic-regression)|
+| 支持向量机 SVM               | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/SVM)|
+| K Means                      | [[dir]](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/K-Means)|
 
 ## 学习资料
 * [学习资料集合](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/ML%20%26%20DL)
