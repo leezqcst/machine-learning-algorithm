@@ -1,5 +1,5 @@
 ﻿## Machine Learning
-记录小润了解的各种机器学习算法，包括Demo测试和python机器学习库（eg.sklearn...）的实践。
+记录小润了解的各种机器学习算法，包括用Python的原生实现以及调用机器学习库sklearn的实现。
 
 |名称                  |目录         |
 |:--------------------|-------------|
@@ -13,13 +13,10 @@
 
 ## 学习资料
 * [学习资料集合](https://github.com/zhourunlai/machine-learning-algorithm/tree/master/ML%20%26%20DL)
-* [《机器学习实战》](http://book.douban.com/subject/24703171/)
+* [《机器学习实战》](http://book.douban.com/subject/24703171/) [项目代码地址](https://github.com/zhourunlai/machine-learning-in-action)
 * [《集体智慧编程》](http://book.douban.com/subject/3288908/)
 * [《统计学习方法》](http://book.douban.com/subject/10590856/)
 * [ coursera-ML](https://www.coursera.org/learn/machine-learning)
 * [ 机器学习基石](https://www.coursera.org/course/ntumlone)
 * [Microsoft: DAT208x Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016)
 * [Microsoft: DAT204x Introduction to R](https://courses.edx.org/courses/course-v1:Microsoft+DAT204x+1T2016/) 
-
-## 5、实践环境
-* Python 3.5.1
